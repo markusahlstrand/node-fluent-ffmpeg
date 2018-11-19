@@ -13,11 +13,7 @@
     }
   ],
   "license": "MIT",
-  "bugs": {
-    "mail": "schaermu@gmail.com",
-    "url": "http://github.com/fluent-ffmpeg/node-fluent-ffmpeg/issues"
-  },
-  "repository": "git://github.com/fluent-ffmpeg/node-fluent-ffmpeg.git",
+  "repository": "git://github.com/markusahlstrand/node-fluent-ffmpeg.git",
   "devDependencies": {
     "mocha": "latest",
     "should": "latest",
